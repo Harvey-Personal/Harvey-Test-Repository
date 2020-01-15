@@ -1,0 +1,441 @@
+UID         PID   PPID  C STIME TTY          TIME CMD
+root          1      0  0  2019 ?        00:04:54 /usr/lib/systemd/systemd --switched-root --system --deserialize 21
+root          2      0  0  2019 ?        00:00:00 [kthreadd]
+root          3      2  0  2019 ?        00:00:15 [ksoftirqd/0]
+root          5      2  0  2019 ?        00:00:00 [kworker/0:0H]
+root          7      2  0  2019 ?        00:00:01 [migration/0]
+root          8      2  0  2019 ?        00:00:00 [rcu_bh]
+root          9      2  0  2019 ?        00:28:57 [rcu_sched]
+root         10      2  0  2019 ?        00:00:00 [lru-add-drain]
+root         11      2  0  2019 ?        00:00:12 [watchdog/0]
+root         12      2  0  2019 ?        00:00:12 [watchdog/1]
+root         13      2  0  2019 ?        00:00:01 [migration/1]
+root         14      2  0  2019 ?        00:00:13 [ksoftirqd/1]
+root         16      2  0  2019 ?        00:00:00 [kworker/1:0H]
+root         17      2  0  2019 ?        00:00:10 [watchdog/2]
+root         18      2  0  2019 ?        00:00:01 [migration/2]
+root         19      2  0  2019 ?        00:00:12 [ksoftirqd/2]
+root         21      2  0  2019 ?        00:00:00 [kworker/2:0H]
+root         22      2  0  2019 ?        00:00:10 [watchdog/3]
+root         23      2  0  2019 ?        00:00:02 [migration/3]
+root         24      2  0  2019 ?        00:00:13 [ksoftirqd/3]
+root         26      2  0  2019 ?        00:00:00 [kworker/3:0H]
+root         27      2  0  2019 ?        00:00:10 [watchdog/4]
+root         28      2  0  2019 ?        00:00:04 [migration/4]
+root         29      2  0  2019 ?        00:00:11 [ksoftirqd/4]
+root         31      2  0  2019 ?        00:00:00 [kworker/4:0H]
+root         32      2  0  2019 ?        00:00:09 [watchdog/5]
+root         33      2  0  2019 ?        00:00:04 [migration/5]
+root         34      2  0  2019 ?        00:00:13 [ksoftirqd/5]
+root         37      2  0  2019 ?        00:00:09 [watchdog/6]
+root         38      2  0  2019 ?        00:00:04 [migration/6]
+root         39      2  0  2019 ?        00:00:13 [ksoftirqd/6]
+root         41      2  0  2019 ?        00:00:00 [kworker/6:0H]
+root         42      2  0  2019 ?        00:00:09 [watchdog/7]
+root         43      2  0  2019 ?        00:00:05 [migration/7]
+root         44      2  0  2019 ?        00:00:15 [ksoftirqd/7]
+root         46      2  0  2019 ?        00:00:00 [kworker/7:0H]
+root         48      2  0  2019 ?        00:00:00 [kdevtmpfs]
+root         49      2  0  2019 ?        00:00:00 [netns]
+root         50      2  0  2019 ?        00:00:05 [khungtaskd]
+root         51      2  0  2019 ?        00:00:00 [writeback]
+root         52      2  0  2019 ?        00:00:00 [kintegrityd]
+root         53      2  0  2019 ?        00:00:00 [bioset]
+root         54      2  0  2019 ?        00:00:00 [kblockd]
+root         55      2  0  2019 ?        00:00:00 [md]
+root         56      2  0  2019 ?        00:00:00 [edac-poller]
+root         65      2  0  2019 ?        00:00:18 [kswapd0]
+root         66      2  0  2019 ?        00:00:00 [ksmd]
+root         67      2  0  2019 ?        00:00:19 [khugepaged]
+root         68      2  0  2019 ?        00:00:00 [crypto]
+root         76      2  0  2019 ?        00:00:00 [kthrotld]
+root         83      2  0  2019 ?        00:00:00 [kmpath_rdacd]
+root         84      2  0  2019 ?        00:00:00 [kaluad]
+root         85      2  0  2019 ?        00:00:00 [kpsmoused]
+root         87      2  0  2019 ?        00:00:00 [ipv6_addrconf]
+root        100      2  0  2019 ?        00:00:00 [deferwq]
+root        132      2  0  2019 ?        00:00:03 [kauditd]
+root        333      2  0  2019 ?        00:00:00 [ata_sff]
+root        347      2  0  2019 ?        00:00:00 [scsi_eh_0]
+root        348      2  0  2019 ?        00:00:00 [scsi_tmf_0]
+root        349      2  0  2019 ?        00:00:00 [scsi_eh_1]
+root        350      2  0  2019 ?        00:00:00 [scsi_tmf_1]
+root        351      2  0  2019 ?        00:00:00 [scsi_eh_2]
+root        352      2  0  2019 ?        00:00:00 [scsi_tmf_2]
+root        353      2  0  2019 ?        00:00:00 [scsi_eh_3]
+root        354      2  0  2019 ?        00:00:00 [scsi_tmf_3]
+root        360      2  0  2019 ?        00:00:00 [scsi_eh_4]
+root        361      2  0  2019 ?        00:00:00 [scsi_tmf_4]
+root        362      2  0  2019 ?        00:00:00 [scsi_eh_5]
+root        363      2  0  2019 ?        00:00:00 [scsi_tmf_5]
+root        364      2  0  2019 ?        00:00:00 [scsi_eh_6]
+root        365      2  0  2019 ?        00:00:00 [scsi_tmf_6]
+root        366      2  0  2019 ?        00:00:00 [scsi_eh_7]
+root        367      2  0  2019 ?        00:00:00 [scsi_tmf_7]
+root        425      2  0  2019 ?        00:00:00 [kworker/0:1H]
+root        466      2  0  2019 ?        00:00:00 [kdmflush]
+root        467      2  0  2019 ?        00:00:00 [bioset]
+root        474      2  0  2019 ?        00:00:00 [kdmflush]
+root        475      2  0  2019 ?        00:00:00 [bioset]
+root        492      2  0  2019 ?        00:00:00 [bioset]
+root        493      2  0  2019 ?        00:00:00 [xfsalloc]
+root        494      2  0  2019 ?        00:00:00 [xfs_mru_cache]
+root        495      2  0  2019 ?        00:00:00 [xfs-buf/dm-1]
+root        496      2  0  2019 ?        00:00:00 [xfs-data/dm-1]
+root        497      2  0  2019 ?        00:00:00 [xfs-conv/dm-1]
+root        498      2  0  2019 ?        00:00:00 [xfs-cil/dm-1]
+root        499      2  0  2019 ?        00:00:00 [xfs-reclaim/dm-]
+root        500      2  0  2019 ?        00:00:00 [xfs-log/dm-1]
+root        501      2  0  2019 ?        00:00:00 [xfs-eofblocks/d]
+root        502      2  0  2019 ?        00:11:25 [xfsaild/dm-1]
+root        574      1  0  2019 ?        00:00:39 /usr/lib/systemd/systemd-journald
+root        604      1  0  2019 ?        00:00:00 /usr/sbin/lvmetad -f
+root        607      2  0  2019 ?        00:00:00 [rpciod]
+root        609      2  0  2019 ?        00:00:00 [xprtiod]
+root        617      1  0  2019 ?        00:00:01 /usr/lib/systemd/systemd-udevd
+root        661      2  0  2019 ?        00:00:01 [kworker/3:1H]
+root        737      2  0  2019 ?        00:00:00 [xfs-buf/sda2]
+root        738      2  0  2019 ?        00:00:00 [xfs-data/sda2]
+root        739      2  0  2019 ?        00:00:00 [xfs-conv/sda2]
+root        740      2  0  2019 ?        00:00:00 [xfs-cil/sda2]
+root        741      2  0  2019 ?        00:00:00 [xfs-reclaim/sda]
+root        742      2  0  2019 ?        00:00:00 [xfs-log/sda2]
+root        743      2  0  2019 ?        00:00:01 [kworker/2:1H]
+root        744      2  0  2019 ?        00:00:00 [xfs-eofblocks/s]
+root        747      2  0  2019 ?        00:00:00 [kvm-irqfd-clean]
+root        748      2  0  2019 ?        00:00:00 [xfsaild/sda2]
+root        763      2  0  2019 ?        00:00:00 [nvidia-modeset]
+root        773      2  0  2019 ?        00:00:00 [kdmflush]
+root        774      2  0  2019 ?        00:00:00 [bioset]
+root        776      2  0  2019 ?        00:00:00 [kdmflush]
+root        777      2  0  2019 ?        00:00:00 [bioset]
+root        794      2  0  2019 ?        00:00:00 [xfs-buf/dm-2]
+root        795      2  0  2019 ?        00:00:00 [xfs-data/dm-2]
+root        796      2  0  2019 ?        00:00:00 [xfs-conv/dm-2]
+root        797      2  0  2019 ?        00:00:00 [xfs-cil/dm-2]
+root        798      2  0  2019 ?        00:00:00 [xfs-reclaim/dm-]
+root        799      2  0  2019 ?        00:00:00 [xfs-log/dm-2]
+root        800      2  0  2019 ?        00:00:00 [xfs-buf/dm-3]
+root        801      2  0  2019 ?        00:00:00 [xfs-eofblocks/d]
+root        802      2  0  2019 ?        00:00:00 [xfs-data/dm-3]
+root        803      2  0  2019 ?        00:00:00 [xfs-conv/dm-3]
+root        804      2  0  2019 ?        00:00:00 [xfs-cil/dm-3]
+root        805      2  0  2019 ?        00:00:00 [xfs-reclaim/dm-]
+root        806      2  0  2019 ?        00:00:00 [xfs-log/dm-3]
+root        807      2  0  2019 ?        00:00:00 [xfs-eofblocks/d]
+root        808      2  0  2019 ?        00:00:29 [xfsaild/dm-2]
+root        809      2  0  2019 ?        00:00:00 [xfsaild/dm-3]
+root        820      2  0  2019 ?        00:03:34 [kworker/7:1H]
+root        833      1  0  2019 ?        00:00:14 /sbin/auditd
+root        836    833  0  2019 ?        00:00:13 /sbin/audispd
+root        837    836  0  2019 ?        00:00:09 /usr/sbin/sedispatch
+root        860      1  0  2019 ?        00:00:00 /sbin/portreserve
+libstor+    861      1  0  2019 ?        00:00:08 /usr/bin/lsmd -d
+root        863      1  0  2019 ?        00:00:00 /usr/sbin/smartd -n -q never
+root        869      1  0  2019 ?        00:01:56 /usr/sbin/rsyslogd -n
+polkitd     870      1  0  2019 ?        00:11:33 /usr/lib/polkit-1/polkitd --no-debug
+dbus        872      1  0  2019 ?        00:04:50 /bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+root        893      1  0  2019 ?        00:07:38 /usr/sbin/irqbalance --foreground
+root        895      1  0  2019 ?        00:00:00 /usr/sbin/abrtd -d -s
+root        899      1  0  2019 ?        00:00:04 /usr/bin/abrt-watch-log -F BUG: WARNING: at WARNING: CPU: INFO: possible recursive locking detected ernel BUG at list_del corruption list_add corruption do_IRQ: stack overflow: ear stack overflow (cur: eneral protection fault nable to handle kernel ouble fault: RTNL: assertion failed eek! page_mapcount(page) went negative! adness at NETDEV WATCHDOG ysctl table check failed : nobody cared IRQ handler type mismatch Machine Check Exception: Machine check events logged divide error: bounds: coprocessor segment overrun: invalid TSS: segment not present: invalid opcode: alignment check: stack segment: fpu exception: simd exception: iret exception: /var/log/messages -- /usr/bin/abrt-dump-oops -xtD
+root        900      1  0  2019 ?        00:00:00 /usr/bin/abrt-watch-log -F Backtrace /var/log/Xorg.0.log -- /usr/bin/abrt-dump-xorg -xD
+rtkit       901      1  0  2019 ?        00:00:31 /usr/libexec/rtkit-daemon
+root        903      1  0  2019 ?        00:00:00 /usr/sbin/alsactl -s -n 19 -c -E ALSA_CONFIG_PATH=/etc/alsa/alsactl.conf --initfile=/lib/alsa/init/00main rdaemon
+root        909      2  0  2019 ?        00:00:00 [kworker/4:1H]
+root        910      1  0  2019 ?        00:00:08 /usr/sbin/ModemManager
+rpc         918      1  0  2019 ?        00:00:05 /sbin/rpcbind -w
+root        922      1  0  2019 ?        00:03:15 /sbin/rngd -f
+nscd        932      1  0  2019 ?        00:01:42 /usr/sbin/nscd
+root        940      1  0  2019 ?        00:00:03 /usr/sbin/gssproxy -D
+root       1299      2  0  2019 ?        00:00:00 [kworker/1:1H]
+root       1415      1  0  2019 ?        00:00:00 /sbin/dhclient -1 -q -lf /var/lib/dhclient/dhclient-c6ec7789-576c-441d-a56a-e5b09343395d-eno1.lease -pf /var/run/dhclient-eno1.pid -H atslxws16 eno1
+root       1664      1  0  2019 ?        00:00:00 /usr/sbin/sshd -D
+root       1667      1  0  2019 ?        00:05:40 /usr/bin/python -Es /usr/sbin/tuned -l -P
+root       1674      1  0  2019 ?        00:00:00 /usr/bin/rhsmcertd
+rpcuser    1687      1  0  2019 ?        00:00:00 /usr/sbin/rpc.statd
+nobody     1691      1  0  2019 ?        00:00:00 /usr/sbin/dnsmasq --conf-file=/etc/dnsmasq/br-instruments.conf
+postgres   1730      1  0  2019 ?        00:03:50 /usr/bin/postgres -D /var/opt/hp93000/soc_common/postgres/data1 -p 9906
+root       1752      2  0  2019 ?        00:00:05 [kworker/6:1H]
+postgres   1986   1730  0  2019 ?        00:00:00 postgres: logger process   
+postgres   2065   1730  0  2019 ?        00:00:09 postgres: checkpointer process   
+postgres   2067   1730  0  2019 ?        00:00:24 postgres: writer process   
+postgres   2068   1730  0  2019 ?        00:00:26 postgres: wal writer process   
+postgres   2069   1730  0  2019 ?        00:08:47 postgres: autovacuum launcher process   
+postgres   2070   1730  0  2019 ?        00:12:00 postgres: stats collector process   
+root       2141      1  0  2019 ?        00:00:55 /usr/lib/systemd/systemd-logind
+root       2146      1  0  2019 ?        00:00:22 /usr/libexec/accounts-daemon
+root       2167      1  0  2019 ?        00:00:00 /usr/sbin/atd -f
+root       2172      1  0  2019 ?        00:00:09 /usr/sbin/crond -n
+root       2206      1  0  2019 ?        00:02:21 /usr/sbin/automount --pid-file /run/autofs.pid
+root       2326      1  0  2019 ?        00:00:09 /usr/sbin/lightdm
+root       2422   2326  1  2019 tty1     20:21:51 /usr/bin/X -background none :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt1 -novtswitch
+root       2889      2  0  2019 ?        00:50:03 [irq/61-nvidia]
+root       2890      2  0  2019 ?        00:00:00 [nvidia]
+root       2902      1  0  2019 ?        00:00:00 rhnsd
+root       2953      1  0  2019 ?        00:00:11 /usr/libexec/postfix/master -w
+lightdm    3154      1  0  2019 ?        00:00:00 dbus-launch --autolaunch=72f87a62159540608e0ec86bbdb45537 --binary-syntax --close-stderr
+lightdm    3156      1  0  2019 ?        00:00:00 /bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+root       3442   2326  0  2019 ?        00:00:00 lightdm --session-child 14 23
+root       3467      2  0  2019 ?        00:00:00 [nfsiod]
+root       3474      2  0  2019 ?        00:00:00 [nfsv4.0-svc]
+alexguo    3484   3442  0  2019 ?        00:00:00 /bin/sh /usr/bin/startkde
+alexguo    3515      1  0  2019 ?        00:00:00 dbus-launch --sh-syntax --exit-with-session
+alexguo    3516      1  0  2019 ?        00:00:03 /bin/dbus-daemon --fork --print-pid 4 --print-address 6 --session
+alexguo    3585      1  0  2019 ?        00:00:00 /usr/libexec/imsettings-daemon
+alexguo    3589      1  0  2019 ?        00:00:00 /usr/libexec/gvfsd
+alexguo    3641   3484  0  2019 ?        00:00:14 /usr/bin/ssh-agent /bin/sh -c exec -l /bin/bash -c "/usr/bin/startkde"
+alexguo    3723      1  0  2019 ?        00:00:00 /usr/libexec/kde4/start_kdeinit +kcminit_startup
+alexguo    3724      1  0  2019 ?        00:00:00 kdeinit4: kdeinit4 Running...
+alexguo    3725   3724  0  2019 ?        00:00:00 kdeinit4: klauncher [kdeinit] --fd=9
+alexguo    3727      1  0  2019 ?        00:02:59 kdeinit4: kded4 [kdeinit]
+alexguo    3729      1  0  2019 ?        01:14:27 /usr/libexec/gam_server
+alexguo    3744      1  0  2019 ?        00:00:02 kdeinit4: kglobalaccel [kdeinit]
+alexguo    3746      1  0  2019 ?        00:00:01 kdeinit4: kwalletd [kdeinit]
+colord     3752      1  0  2019 ?        00:00:00 /usr/libexec/colord
+alexguo    3760   3484  0  2019 ?        00:00:00 kwrapper4 ksmserver
+alexguo    3761   3724  0  2019 ?        00:00:03 kdeinit4: ksmserver [kdeinit]
+alexguo    3763      1  0  2019 ?        00:00:37 /usr/bin/kactivitymanagerd
+root       3764      1  0  2019 ?        00:00:08 /usr/libexec/upowerd
+root       3795      1  0  2019 ?        00:11:26 /usr/lib/udisks2/udisksd --no-debug
+alexguo    3821   3761  0  2019 ?        00:03:56 kwin -session 1010febe69d000143937394500000063850000_1569836188_109189
+alexguo    3837      1  0  2019 ?        00:35:23 kdeinit4: plasma-desktop [kdeinit]
+alexguo    3848   3837  0  2019 ?        00:00:00 ksysguardd
+alexguo    3851      1  0  2019 ?        00:00:01 /usr/bin/kuiserver
+root       3854      1  0  2019 ?        00:12:13 /usr/sbin/cupsd -f
+alexguo    3857      1  0  2019 ?        00:00:30 /usr/bin/akonadi_control
+alexguo    3859   3857  0  2019 ?        00:02:25 akonadiserver
+alexguo    3865   3857  0  2019 ?        00:00:01 /usr/bin/akonadi_agent_launcher akonadi_akonotes_resource akonadi_akonotes_resource_0
+alexguo    3866   3857  0  2019 ?        00:00:01 /usr/bin/akonadi_agent_launcher akonadi_akonotes_resource akonadi_akonotes_resource_1
+alexguo    3867   3857  0  2019 ?        00:00:01 /usr/bin/akonadi_agent_launcher akonadi_contacts_resource akonadi_contacts_resource_0
+alexguo    3868   3857  0  2019 ?        00:00:01 /usr/bin/akonadi_agent_launcher akonadi_contacts_resource akonadi_contacts_resource_1
+alexguo    3869   3857  0  2019 ?        00:00:01 /usr/bin/akonadi_agent_launcher akonadi_ical_resource akonadi_ical_resource_0
+alexguo    3870   3857  0  2019 ?        00:00:01 /usr/bin/akonadi_agent_launcher akonadi_ical_resource akonadi_ical_resource_1
+alexguo    3871   3857  0  2019 ?        00:00:01 /usr/bin/akonadi_agent_launcher akonadi_maildir_resource akonadi_maildir_resource_0
+alexguo    3872   3857  0  2019 ?        00:00:02 /usr/bin/akonadi_maildispatcher_agent --identifier akonadi_maildispatcher_agent
+alexguo    3873   3857  0  2019 ?        00:00:07 /usr/bin/akonadi_nepomuk_feeder --identifier akonadi_nepomuk_feeder
+alexguo    3914      1  0  2019 ?        00:01:03 kdeinit4: krunner [kdeinit]
+alexguo    3919      1  0  2019 ?        00:01:58 /usr/bin/pulseaudio --start --log-target=syslog
+alexguo    3932      1  0  2019 ?        00:00:11 kdeinit4: kmix [kdeinit] -session 1010febe69d
+alexguo    3937   3724  0  2019 ?        00:00:00 /usr/bin/abrt-applet
+alexguo    3938   3724  0  2019 ?        00:00:00 /usr/bin/rhsm-icon
+alexguo    3954   3724  0  2019 ?        00:00:00 /usr/bin/xsettings-kde
+alexguo    3957      1  0  2019 ?        00:00:00 /usr/libexec/at-spi-bus-launcher
+alexguo    3964      1  0  2019 ?        00:00:08 /usr/libexec/kde4/polkit-kde-authentication-agent-1
+alexguo    3975   3957  0  2019 ?        00:00:02 /bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+alexguo    4011      1  0  2019 ?        00:00:11 /usr/libexec/at-spi2-registryd --use-gnome-session
+alexguo    4019      1  0  2019 ?        00:00:06 /usr/libexec/gconfd-2
+alexguo    4038      1  0  2019 ?        00:00:00 /usr/libexec/dconf-service
+alexguo    4209      1  0  2019 ?        00:00:12 /usr/bin/knotify4
+root      12959      2  0 04:08 ?        00:00:01 [kworker/0:1]
+alexguo   23284  28838  0 Jan06 ?        00:02:27 /opt/google/chrome/chrome --type=renderer --field-trial-handle=13895928951569004072,17073135231867264989,131072 --service-pipe-token=D7D13ACF76997370E8F57C43384FB90B --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=true --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --enable-gpu-async-worker-context --service-request-channel-token=D7D13ACF76997370E8F57C43384FB90B --renderer-client-id=37 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+alexguo   28820   3724  0 Jan03 ?        00:12:01 /opt/google/chrome/chrome
+alexguo   28825  28820  0 Jan03 ?        00:00:00 cat
+alexguo   28826  28820  0 Jan03 ?        00:00:00 cat
+alexguo   28830  28820  0 Jan03 ?        00:00:00 /opt/google/chrome/chrome-sandbox /opt/google/chrome/chrome --type=zygote
+alexguo   28831  28830  0 Jan03 ?        00:00:00 /opt/google/chrome/chrome --type=zygote
+alexguo   28835  28831  0 Jan03 ?        00:00:00 /opt/google/chrome/chrome-sandbox /opt/google/chrome/nacl_helper
+alexguo   28836  28835  0 Jan03 ?        00:00:00 /opt/google/chrome/nacl_helper
+alexguo   28838  28831  0 Jan03 ?        00:00:00 /opt/google/chrome/chrome --type=zygote
+alexguo   28915  28820  0 Jan03 ?        00:07:14 /opt/google/chrome/chrome --type=gpu-process --field-trial-handle=13895928951569004072,17073135231867264989,131072 --disable-accelerated-video-decode --gpu-vendor-id=0x10de --gpu-device-id=0x107d --gpu-driver-vendor=Nvidia --gpu-driver-version=390.42 --gpu-driver-date --service-request-channel-token=A310071FFAA4C9A2FD7D7DEC9D100315
+alexguo   28917  28915  0 Jan03 ?        00:00:02 /opt/google/chrome/chrome --type=gpu-broker
+alexguo   29159  28838  0 Jan03 ?        00:01:28 /opt/google/chrome/chrome --type=renderer --field-trial-handle=13895928951569004072,17073135231867264989,131072 --service-pipe-token=E9199F76C6AE3DC54C8B68B8D6EE6042 --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=true --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --enable-gpu-async-worker-context --service-request-channel-token=E9199F76C6AE3DC54C8B68B8D6EE6042 --renderer-client-id=7 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+alexguo   29183  28838  0 Jan03 ?        00:04:57 /opt/google/chrome/chrome --type=renderer --field-trial-handle=13895928951569004072,17073135231867264989,131072 --service-pipe-token=2DD18D30C9D030651BEFFFDE1D561DCE --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=true --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --enable-gpu-async-worker-context --service-request-channel-token=2DD18D30C9D030651BEFFFDE1D561DCE --renderer-client-id=8 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+alexguo   29238  28838  0 Jan03 ?        01:16:13 /opt/google/chrome/chrome --type=renderer --field-trial-handle=13895928951569004072,17073135231867264989,131072 --service-pipe-token=BD800C60D340F9CB55B33AF87EECD1D8 --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=true --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --enable-gpu-async-worker-context --service-request-channel-token=BD800C60D340F9CB55B33AF87EECD1D8 --renderer-client-id=12 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+alexguo   29295  28838  0 Jan03 ?        00:53:48 /opt/google/chrome/chrome --type=renderer --field-trial-handle=13895928951569004072,17073135231867264989,131072 --service-pipe-token=2399692064154602D0A2EC8F01450746 --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=true --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --enable-gpu-async-worker-context --service-request-channel-token=2399692064154602D0A2EC8F01450746 --renderer-client-id=14 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+alexguo   30356  28838  0 Jan03 ?        00:33:04 /opt/google/chrome/chrome --type=renderer --field-trial-handle=13895928951569004072,17073135231867264989,131072 --service-pipe-token=E1F7B50BFED28010D3FD255117053932 --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=true --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --enable-gpu-async-worker-context --service-request-channel-token=E1F7B50BFED28010D3FD255117053932 --renderer-client-id=15 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+jaxwu     35288      1  0  2019 ?        00:15:04 /usr/bin/konsole --workdir /home/jaxwu
+jaxwu     35290  35288  0  2019 pts/22   00:00:00 /bin/bash
+jaxwu     35350  35288  0  2019 pts/23   00:00:00 /bin/bash
+alexguo   35839  59344  0 Jan03 pts/37   00:00:00 /bin/bash
+alexguo   35988  35839  0 Jan03 pts/37   00:00:00 /bin/ksh vobs/zenith/workspace/CMF-tools/set_environment.ksh
+alexguo   36054  35988  0 Jan03 pts/37   00:00:00 /bin/bash
+alexguo   36071  36054  0 Jan03 pts/37   00:00:00 /home/alexguo/.eclipse_ide/advantest_ide_RH7-412/eclipse//eclipse
+alexguo   36118  36071  0 Jan03 pts/37   01:10:24 /usr/lib/jvm/java-1.8.0-openjdk/jre/bin/java -Xms256m -Xmx8G -Declipse.p2.max.threads=10 -Doomph.redirection.index.redirection=index:/->http://socadmin.verigy.net/nexus/content/repositories/oomph-catalogue/412/ -XX:ReservedCodeCacheSize=256m -Dosgi.bundlefile.limit=100 -Declipse.log.size.max=10000 -Doomph.update.url=http://socadmin.verigy.net/nexus/content/repositories/eclipse4sdk-update-site/412/composite/ -Declipse.p2.unsignedPolicy=allow -Dds.delayed.keepInstances=true -Dosgi.dataAreaRequiresExplicitInit=true -Dorg.eclipse.swt.internal.gtk.noThemingFixes -Dorg.eclipse.swt.internal.gtk.enableStrictChecks -Dorg.eclipse.wst.validation.ui.disable.validation.context.menu=true -jar /home/alexguo/.eclipse_ide/advantest_ide_RH7-412/eclipse//plugins/org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar -os linux -ws gtk -arch x86_64 -showsplash -launcher /home/alexguo/.eclipse_ide/advantest_ide_RH7-412/eclipse/eclipse -name Eclipse --launcher.library /home/alexguo/.p2/pool/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.1000.v20190125-2016/eclipse_1801.so -startup /home/alexguo/.eclipse_ide/advantest_ide_RH7-412/eclipse//plugins/org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar -protect root --launcher.appendVmargs -exitdata 4cd8053 -vm /usr/lib/jvm/java-1.8.0-openjdk/jre/bin/java -vmargs -Xms256m -Xmx8G -Declipse.p2.max.threads=10 -Doomph.redirection.index.redirection=index:/->http://socadmin.verigy.net/nexus/content/repositories/oomph-catalogue/412/ -XX:ReservedCodeCacheSize=256m -Dosgi.bundlefile.limit=100 -Declipse.log.size.max=10000 -Doomph.update.url=http://socadmin.verigy.net/nexus/content/repositories/eclipse4sdk-update-site/412/composite/ -Declipse.p2.unsignedPolicy=allow -Dds.delayed.keepInstances=true -Dosgi.dataAreaRequiresExplicitInit=true -Dorg.eclipse.swt.internal.gtk.noThemingFixes -Dorg.eclipse.swt.internal.gtk.enableStrictChecks -Dorg.eclipse.wst.validation.ui.disable.validation.context.menu=true -jar /home/alexguo/.eclipse_ide/advantest_ide_RH7-412/eclipse//plugins/org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar
+alexguo   39436  28838  0 Jan03 ?        00:21:19 /opt/google/chrome/chrome --type=renderer --field-trial-handle=13895928951569004072,17073135231867264989,131072 --service-pipe-token=6BE15B1A132CE433A97596C2EA0360BB --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=true --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --enable-gpu-async-worker-context --service-request-channel-token=6BE15B1A132CE433A97596C2EA0360BB --renderer-client-id=19 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+alexguo   39544      1  0  2019 pts/0    00:00:00 /usr/libexec/webkit2gtk-4.0/WebKitNetworkProcess 141
+alexguo   43344      1  0  2019 ?        00:02:36 /usr/libexec/gvfs-udisks2-volume-monitor
+alexguo   43349      1  0  2019 ?        00:00:14 /usr/libexec/gvfsd-trash --spawner :1.4 /org/gtk/gvfs/exec_spaw/0
+alexguo   43387      1  0  2019 ?        00:00:00 /usr/libexec/gvfsd-network --spawner :1.4 /org/gtk/gvfs/exec_spaw/2
+alexguo   43402      1  0  2019 ?        00:00:04 /usr/libexec/gvfsd-dnssd --spawner :1.4 /org/gtk/gvfs/exec_spaw/3
+alexguo   46968  59344  0 Jan14 pts/3    00:00:00 /bin/bash
+alexguo   49369  59344  0 Jan06 pts/34   00:00:00 /bin/bash
+alexguo   49809  28838  0 Jan14 ?        00:04:12 /opt/google/chrome/chrome --type=renderer --field-trial-handle=13895928951569004072,17073135231867264989,131072 --service-pipe-token=9BCAC74F10049D53391A165995B98F19 --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --blink-settings=disallowFetchForDocWrittenScriptsInMainFrame=false,disallowFetchForDocWrittenScriptsInMainFrameOnSlowConnections=true --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --enable-gpu-async-worker-context --service-request-channel-token=9BCAC74F10049D53391A165995B98F19 --renderer-client-id=92 --shared-files=v8_natives_data:100,v8_snapshot_data:101
+alexguo   53706  59344  0  2019 pts/9    00:00:00 /bin/bash
+alexguo   53927      1  0 Jan14 ?        00:00:51 /usr/bin/konsole --workdir /home/alexguo
+alexguo   54550  59344  0  2019 pts/11   00:00:00 /bin/bash
+alexguo   54567      1  0  2019 ?        00:02:25 /usr/libexec/gvfs-udisks2-volume-monitor
+alexguo   54572      1  0  2019 ?        00:00:13 /usr/libexec/gvfsd-trash --spawner :1.4 /org/gtk/gvfs/exec_spaw/0
+alexguo   54606      1  0  2019 ?        00:00:00 /usr/libexec/gvfsd-network --spawner :1.4 /org/gtk/gvfs/exec_spaw/1
+alexguo   54620      1  0  2019 ?        00:00:04 /usr/libexec/gvfsd-dnssd --spawner :1.4 /org/gtk/gvfs/exec_spaw/3
+alexguo   59344      1  0  2019 ?        07:49:28 /usr/bin/konsole --workdir /home/alexguo
+alexguo   59346  59344  0  2019 pts/0    00:00:00 /bin/bash
+alexguo   59608  59346  0  2019 pts/0    00:00:00 /bin/sh bin/set_environment
+alexguo   59637  59608  0  2019 pts/0    00:00:01 /bin/bash
+alexguo   59678  59637  0  2019 pts/0    00:00:00 /home/alexguo/.eclipse_ide/advantest_ide_RH7-412/eclipse//eclipse
+alexguo   59725  59678  0  2019 pts/0    07:19:15 /usr/lib/jvm/java-1.8.0-openjdk/jre/bin/java -Xms256m -Xmx8G -Declipse.p2.max.threads=10 -Doomph.redirection.index.redirection=index:/->http://socadmin.verigy.net/nexus/content/repositories/oomph-catalogue/412/ -XX:ReservedCodeCacheSize=256m -Dosgi.bundlefile.limit=100 -Declipse.log.size.max=10000 -Doomph.update.url=http://socadmin.verigy.net/nexus/content/repositories/eclipse4sdk-update-site/412/composite/ -Declipse.p2.unsignedPolicy=allow -Dds.delayed.keepInstances=true -Dosgi.dataAreaRequiresExplicitInit=true -Dorg.eclipse.swt.internal.gtk.noThemingFixes -Dorg.eclipse.swt.internal.gtk.enableStrictChecks -Dorg.eclipse.wst.validation.ui.disable.validation.context.menu=true -jar /home/alexguo/.eclipse_ide/advantest_ide_RH7-412/eclipse//plugins/org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar -os linux -ws gtk -arch x86_64 -showsplash -launcher /home/alexguo/.eclipse_ide/advantest_ide_RH7-412/eclipse/eclipse -name Eclipse --launcher.library /home/alexguo/.p2/pool/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.1000.v20190125-2016/eclipse_1801.so -startup /home/alexguo/.eclipse_ide/advantest_ide_RH7-412/eclipse//plugins/org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar -protect root --launcher.appendVmargs -exitdata 18001c -vm /usr/lib/jvm/java-1.8.0-openjdk/jre/bin/java -vmargs -Xms256m -Xmx8G -Declipse.p2.max.threads=10 -Doomph.redirection.index.redirection=index:/->http://socadmin.verigy.net/nexus/content/repositories/oomph-catalogue/412/ -XX:ReservedCodeCacheSize=256m -Dosgi.bundlefile.limit=100 -Declipse.log.size.max=10000 -Doomph.update.url=http://socadmin.verigy.net/nexus/content/repositories/eclipse4sdk-update-site/412/composite/ -Declipse.p2.unsignedPolicy=allow -Dds.delayed.keepInstances=true -Dosgi.dataAreaRequiresExplicitInit=true -Dorg.eclipse.swt.internal.gtk.noThemingFixes -Dorg.eclipse.swt.internal.gtk.enableStrictChecks -Dorg.eclipse.wst.validation.ui.disable.validation.context.menu=true -jar /home/alexguo/.eclipse_ide/advantest_ide_RH7-412/eclipse//plugins/org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar
+alexguo   60146  59344  0  2019 pts/1    00:00:00 /bin/bash
+alexguo   62866  59344  0  2019 pts/2    00:00:00 /bin/bash
+alexguo   62974  62866  0  2019 pts/2    00:00:00 /bin/bash /opt/hp93000/testcell/bin/run
+alexguo   63025  62974  0  2019 pts/2    00:00:00 /bin/bash
+alexguo   65702      1  0 Jan14 pts/13   00:00:00 /opt/hp93000/vcf/sbin/xoc_session_manager -unorc file:///opt/hp93000/vcf/cache/zenith.rc -init xoc.svc.session.ZSSessionManager -server -port 9999
+alexguo   71345 167707  0 09:29 pts/17   00:00:00 awk help
+apache    76657 192976  0 Jan14 ?        00:00:00 /usr/sbin/httpd -DFOREGROUND
+apache    76658 192976  0 Jan14 ?        00:00:00 /usr/sbin/httpd -DFOREGROUND
+apache    76659 192976  0 Jan14 ?        00:00:00 /usr/sbin/httpd -DFOREGROUND
+alexguo   80235      1  0 10:15 ?        00:00:00 /usr/libexec/webkit2gtk-4.0/WebKitNetworkProcess 137
+alexguo   80262      1  0 10:15 ?        00:00:00 /usr/libexec/webkit2gtk-4.0/WebKitWebProcess 155
+root      80453      2  0 10:16 ?        00:00:00 [kworker/1:0]
+root      83545      2  0 Jan06 ?        00:00:05 [kworker/5:0H]
+root      88626      2  0 10:59 ?        00:00:01 [kworker/4:1]
+alexguo   90262 168246  0 11:01 pts/32   00:00:00 /bin/sh bin/set_environment
+alexguo   90291  90262  0 11:01 pts/32   00:00:00 /bin/bash
+alexguo   91187  59344  0 Jan14 pts/15   00:00:00 /bin/bash
+alexguo   91383  59344  0 Jan14 pts/6    00:00:00 /bin/bash
+apache    92916 192976  0 Jan13 ?        00:00:00 /usr/sbin/httpd -DFOREGROUND
+apache    92917 192976  0 Jan13 ?        00:00:00 /usr/sbin/httpd -DFOREGROUND
+apache    92918 192976  0 Jan13 ?        00:00:00 /usr/sbin/httpd -DFOREGROUND
+apache    92919 192976  0 Jan13 ?        00:00:00 /usr/sbin/httpd -DFOREGROUND
+apache    92920 192976  0 Jan13 ?        00:00:00 /usr/sbin/httpd -DFOREGROUND
+root      95283      2  0 Jan14 ?        00:00:00 [nfsv4.1-svc]
+alexguo  105125      1  0 Jan07 ?        00:00:00 /opt/A93kV6/system64_8.3.2.0__mi8Imaster_20191031_1101_58418ba9a8f5_C_DEBUG/sbin/oomlure
+alexguo  116557  59344  0 Jan13 pts/13   00:00:00 /bin/bash
+alexguo  116683 116557  0 Jan13 pts/13   00:00:00 /bin/ksh ./vobs/zenith/workspace/CMF-tools/set_environment.ksh
+alexguo  116762 116683  0 Jan13 pts/13   00:00:00 /bin/bash
+root     118779      2  0 Jan14 ?        00:00:01 [kworker/6:2]
+alexguo  126196      1  0  2019 ?        00:04:40 kate
+alexguo  133916  59344  0 Jan06 pts/40   00:00:00 /bin/bash
+jaxwu    134355  35350  0  2019 pts/23   00:00:02 nedit command1.asc
+alexguo  138059      1  0  2019 ?        00:06:59 /usr/bin/Xvnc :1 -auth /tmp/kde-alexguo/xauth-1704-_0 -desktop atslxws16:1 (alexguo) -fp catalogue:/etc/X11/fontpath.d -geometry 1024x768 -pn -rfbauth /home/alexguo/.vnc/passwd -rfbport 5901 -rfbwait 30000
+alexguo  138068      1  0  2019 ?        00:00:00 /bin/sh /usr/bin/startkde
+alexguo  138097      1  0  2019 ?        00:00:00 dbus-launch --sh-syntax --exit-with-session
+alexguo  138098      1  0  2019 ?        00:00:01 /bin/dbus-daemon --fork --print-pid 4 --print-address 6 --session
+alexguo  138167      1  0  2019 ?        00:00:00 /usr/libexec/imsettings-daemon
+alexguo  138171      1  0  2019 ?        00:00:00 /usr/libexec/gvfsd
+alexguo  138265      1  0  2019 ?        00:00:00 /usr/libexec/kde4/start_kdeinit +kcminit_startup
+alexguo  138266      1  0  2019 ?        00:00:00 kdeinit4: kdeinit4 Running...
+alexguo  138267 138266  0  2019 ?        00:00:00 kdeinit4: klauncher [kdeinit] --fd=9
+alexguo  138269      1  0  2019 ?        00:02:44 kdeinit4: kded4 [kdeinit]
+alexguo  138284      1  0  2019 ?        00:00:00 kdeinit4: kglobalaccel [kdeinit]
+alexguo  138286      1  0  2019 ?        00:00:00 kdeinit4: kwalletd [kdeinit]
+alexguo  138296      1  0  2019 ?        00:00:18 /usr/bin/kactivitymanagerd
+alexguo  138297 138068  0  2019 ?        00:00:00 kwrapper4 ksmserver
+alexguo  138300 138266  0  2019 ?        00:00:00 kdeinit4: ksmserver [kdeinit]
+alexguo  138309 138300  0  2019 ?        00:00:17 kwin -session 1010febe69d000143937394500000063850000_1569836188_109189
+alexguo  138331      1  0  2019 ?        00:21:40 kdeinit4: plasma-desktop [kdeinit]
+alexguo  138339 138331  0  2019 ?        00:00:00 ksysguardd
+alexguo  138342      1  0  2019 ?        00:00:00 /usr/bin/kuiserver
+alexguo  138347      1  0  2019 ?        00:00:30 /usr/bin/akonadi_control
+alexguo  138351 138347  0  2019 ?        00:02:19 akonadiserver
+alexguo  138358 138347  0  2019 ?        00:00:00 /usr/bin/akonadi_agent_launcher akonadi_akonotes_resource akonadi_akonotes_resource_0
+alexguo  138359 138347  0  2019 ?        00:00:00 /usr/bin/akonadi_agent_launcher akonadi_akonotes_resource akonadi_akonotes_resource_1
+alexguo  138360 138347  0  2019 ?        00:00:00 /usr/bin/akonadi_agent_launcher akonadi_contacts_resource akonadi_contacts_resource_0
+alexguo  138361 138347  0  2019 ?        00:00:00 /usr/bin/akonadi_agent_launcher akonadi_contacts_resource akonadi_contacts_resource_1
+alexguo  138362 138347  0  2019 ?        00:00:00 /usr/bin/akonadi_agent_launcher akonadi_ical_resource akonadi_ical_resource_0
+alexguo  138363 138347  0  2019 ?        00:00:00 /usr/bin/akonadi_agent_launcher akonadi_ical_resource akonadi_ical_resource_1
+alexguo  138364 138347  0  2019 ?        00:00:00 /usr/bin/akonadi_agent_launcher akonadi_maildir_resource akonadi_maildir_resource_0
+alexguo  138365 138347  0  2019 ?        00:00:00 /usr/bin/akonadi_maildispatcher_agent --identifier akonadi_maildispatcher_agent
+alexguo  138366 138347  0  2019 ?        00:00:05 /usr/bin/akonadi_nepomuk_feeder --identifier akonadi_nepomuk_feeder
+alexguo  138414      1  0  2019 ?        00:00:45 kdeinit4: krunner [kdeinit]
+alexguo  138431      1  0  2019 ?        00:00:08 kdeinit4: kmix [kdeinit] -session 1010febe69d
+alexguo  138435 138266  0  2019 ?        00:00:00 /usr/bin/abrt-applet
+alexguo  138436 138266  0  2019 ?        00:00:00 /usr/bin/rhsm-icon
+alexguo  138452 138266  0  2019 ?        00:00:00 /usr/bin/xsettings-kde
+alexguo  138465      1  0  2019 ?        00:00:00 /usr/libexec/kde4/polkit-kde-authentication-agent-1
+alexguo  138473      1  0  2019 ?        00:00:00 /usr/libexec/at-spi-bus-launcher
+alexguo  138490 138473  0  2019 ?        00:00:00 /bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+alexguo  138504      1  0  2019 ?        00:00:08 /usr/bin/knotify4
+alexguo  138528      1  0  2019 ?        00:00:01 /usr/libexec/at-spi2-registryd --use-gnome-session
+alexguo  138531      1  0  2019 ?        00:00:06 /usr/libexec/gconfd-2
+alexguo  138564      1  0  2019 ?        00:00:00 /usr/libexec/dconf-service
+root     141730      1  0 Jan04 ?        00:00:00 /usr/sbin/rpc.idmapd
+root     141731      1  0 Jan04 ?        00:00:00 /usr/sbin/rpc.mountd
+root     141743      2  0 Jan04 ?        00:00:00 [nfsd4_callbacks]
+root     141744      2  0 Jan04 ?        00:00:00 [lockd]
+root     141747      2  0 Jan04 ?        00:00:00 [nfsd]
+root     141748      2  0 Jan04 ?        00:00:00 [nfsd]
+root     141749      2  0 Jan04 ?        00:00:00 [nfsd]
+root     141750      2  0 Jan04 ?        00:00:00 [nfsd]
+root     141751      2  0 Jan04 ?        00:00:00 [nfsd]
+root     141752      2  0 Jan04 ?        00:00:00 [nfsd]
+root     141753      2  0 Jan04 ?        00:00:00 [nfsd]
+root     141754      2  0 Jan04 ?        00:00:01 [nfsd]
+ntp      141808      1  0 Jan04 ?        00:00:00 /usr/sbin/ntpd -u ntp:ntp -g
+root     141836      1  0 Jan04 ?        00:00:04 /usr/sbin/ypbind -n
+postfix  141896   2953  0 Jan04 ?        00:00:00 qmgr -l -t unix -u
+alexguo  147153  60146  0  2019 pts/1    00:00:00 /bin/sh bin/set_environment
+alexguo  147182 147153  0  2019 pts/1    00:00:00 /bin/bash
+jaxwu    148478      1  0  2019 ?        00:01:39 /usr/bin/Xvnc :2 -auth /home/jaxwu/.Xauthority -desktop atslxws16:2 (jaxwu) -fp catalogue:/etc/X11/fontpath.d -geometry 1024x768 -pn -rfbauth /home/jaxwu/.vnc/passwd -rfbport 5902 -rfbwait 30000
+jaxwu    148554      1  0  2019 ?        00:00:00 /bin/sh /usr/bin/startkde
+jaxwu    148646      1  0  2019 ?        00:00:00 dbus-launch --sh-syntax --exit-with-session
+jaxwu    148647      1  0  2019 ?        00:00:00 /bin/dbus-daemon --fork --print-pid 4 --print-address 6 --session
+jaxwu    148716      1  0  2019 ?        00:00:00 /usr/libexec/imsettings-daemon
+jaxwu    148720      1  0  2019 ?        00:00:00 /usr/libexec/gvfsd
+jaxwu    148773 148554  0  2019 ?        00:00:09 /usr/bin/ssh-agent /etc/X11/xinit/Xclients
+jaxwu    148814      1  0  2019 ?        00:00:00 /usr/libexec/kde4/start_kdeinit +kcminit_startup
+jaxwu    148815      1  0  2019 ?        00:00:00 kdeinit4: kdeinit4 Running...
+jaxwu    148818 148815  0  2019 ?        00:00:00 kdeinit4: klauncher [kdeinit] --fd=9
+jaxwu    148823      1  0  2019 ?        00:02:05 kdeinit4: kded4 [kdeinit]
+jaxwu    148828      1  0  2019 ?        00:25:54 /usr/libexec/gam_server
+jaxwu    148856      1  0  2019 ?        00:00:00 kdeinit4: kglobalaccel [kdeinit]
+jaxwu    148858      1  0  2019 ?        00:00:00 kdeinit4: kwalletd [kdeinit]
+jaxwu    148877 148554  0  2019 ?        00:00:00 kwrapper4 ksmserver
+jaxwu    148878 148815  0  2019 ?        00:00:00 kdeinit4: ksmserver [kdeinit]
+jaxwu    148879      1  0  2019 ?        00:00:00 /usr/bin/kactivitymanagerd
+jaxwu    148890 148878  0  2019 ?        00:00:31 kwin -session 1010a121111a3000150909439100000311510000_1574652279_431552
+jaxwu    148909      1  0  2019 ?        00:01:55 kdeinit4: plasma-desktop [kdeinit]
+jaxwu    148917 148909  0  2019 ?        00:00:00 ksysguardd
+jaxwu    148920      1  0  2019 ?        00:00:00 /usr/bin/kuiserver
+jaxwu    148922      1  0  2019 ?        00:00:21 /usr/bin/akonadi_control
+jaxwu    148924 148922  0  2019 ?        00:01:40 akonadiserver
+jaxwu    148932 148922  0  2019 ?        00:00:00 /usr/bin/akonadi_agent_launcher akonadi_akonotes_resource akonadi_akonotes_resource_0
+jaxwu    148933 148922  0  2019 ?        00:00:00 /usr/bin/akonadi_agent_launcher akonadi_contacts_resource akonadi_contacts_resource_0
+jaxwu    148934 148922  0  2019 ?        00:00:00 /usr/bin/akonadi_agent_launcher akonadi_ical_resource akonadi_ical_resource_0
+jaxwu    148935 148922  0  2019 ?        00:00:00 /usr/bin/akonadi_agent_launcher akonadi_maildir_resource akonadi_maildir_resource_0
+jaxwu    148936 148922  0  2019 ?        00:00:00 /usr/bin/akonadi_maildispatcher_agent --identifier akonadi_maildispatcher_agent
+jaxwu    148937 148922  0  2019 ?        00:00:03 /usr/bin/akonadi_nepomuk_feeder --identifier akonadi_nepomuk_feeder
+jaxwu    148956      1  0  2019 ?        00:00:37 kdeinit4: krunner [kdeinit]
+jaxwu    148965      1  0  2019 ?        00:00:06 /usr/bin/pulseaudio --start --log-target=syslog
+jaxwu    149011      1  0  2019 ?        00:00:04 kdeinit4: kmix [kdeinit] -session 1010a121111a3000150909442700000311510008_1574652279_373889
+jaxwu    149080 148815  0  2019 ?        00:00:00 /usr/bin/abrt-applet
+jaxwu    149085 148815  0  2019 ?        00:00:00 /usr/bin/rhsm-icon
+jaxwu    149107 148815  0  2019 ?        00:00:00 /usr/bin/xsettings-kde
+jaxwu    149109      1  0  2019 ?        00:00:05 /usr/libexec/kde4/polkit-kde-authentication-agent-1
+jaxwu    149120      1  0  2019 ?        00:00:00 /usr/libexec/at-spi-bus-launcher
+jaxwu    149153 149120  0  2019 ?        00:00:00 /bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+jaxwu    149189      1  0  2019 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+jaxwu    149192      1  0  2019 ?        00:00:04 /usr/libexec/gconfd-2
+jaxwu    149198      1  0  2019 ?        00:00:06 /usr/bin/knotify4
+jaxwu    149215      1  0  2019 ?        00:00:00 /usr/libexec/dconf-service
+root     159320      2  0 11:04 ?        00:00:00 [kworker/5:0]
+root     161156      2  0 12:11 ?        00:00:00 [kworker/5:1]
+root     161841      2  0 12:36 ?        00:00:00 [kworker/0:0]
+postfix  162063   2953  0 12:46 ?        00:00:00 pickup -l -t unix -u
+root     162130      2  0 12:50 ?        00:00:00 [kworker/7:2]
+alexguo  162184 172273  0 Jan09 pts/41   00:00:00 /bin/bash /workspaces/atslxws16/alexguo/ws-tcct-bf-alexguo/workspace/system/bin/run
+alexguo  162212 162184  0 Jan09 pts/41   00:00:00 /bin/bash
+root     162374      2  0 13:00 ?        00:00:00 [kworker/u384:2]
+root     162740      2  0 13:10 ?        00:00:00 [kworker/u384:0]
+root     162857      2  0 13:13 ?        00:00:00 [kworker/3:1]
+root     162861      2  0 13:13 ?        00:00:00 [kworker/6:0]
+root     162912      2  0 13:15 ?        00:00:00 [kworker/2:1]
+root     162975      2  0 13:16 ?        00:00:00 [kworker/4:0]
+root     163107      2  0 13:20 ?        00:00:00 [kworker/3:2]
+root     163144      2  0 13:20 ?        00:00:00 [kworker/2:2]
+alexguo  163383 138266  0 13:29 ?        00:00:00 kdeinit4: kio_file [kdeinit] file local:/run/
+alexguo  163384   3724  0 13:29 ?        00:00:00 kdeinit4: kio_file [kdeinit] file local:/run/
+root     163427      2  0 13:30 ?        00:00:00 [kworker/u384:1]
+alexguo  163455 167707  0 13:30 pts/17   00:00:00 ps -ef
+alexguo  167707  53927  0 Jan14 pts/17   00:00:00 /bin/bash
+alexguo  168246  59344  0 Jan02 pts/32   00:00:00 /bin/bash
+root     171619      2  0 00:45 ?        00:00:10 [kworker/5:2H]
+alexguo  172273  59344  0 Jan06 pts/41   00:00:00 /bin/bash
+alexguo  176765      1  0 Jan06 ?        00:00:00 /home/alexguo/.eclipse_ide/advantest_ide_RH7-412/eclipse//eclipse
+alexguo  177126 176765  1 Jan06 ?        03:24:15 /usr/lib/jvm/java-1.8.0-openjdk/jre/bin/java -Xms256m -Xmx8G -Declipse.p2.max.threads=10 -Doomph.redirection.index.redirection=index:/->http://socadmin.verigy.net/nexus/content/repositories/oomph-catalogue/412/ -XX:ReservedCodeCacheSize=256m -Dosgi.bundlefile.limit=100 -Declipse.log.size.max=10000 -Doomph.update.url=http://socadmin.verigy.net/nexus/content/repositories/eclipse4sdk-update-site/412/composite/ -Declipse.p2.unsignedPolicy=allow -Dds.delayed.keepInstances=true -Dosgi.dataAreaRequiresExplicitInit=true -Dorg.eclipse.swt.internal.gtk.noThemingFixes -Dorg.eclipse.swt.internal.gtk.enableStrictChecks -Dorg.eclipse.wst.validation.ui.disable.validation.context.menu=true -jar /home/alexguo/.eclipse_ide/advantest_ide_RH7-412/eclipse//plugins/org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar -os linux -ws gtk -arch x86_64 -showsplash -launcher /home/alexguo/.eclipse_ide/advantest_ide_RH7-412/eclipse/eclipse -name Eclipse --launcher.library /home/alexguo/.p2/pool/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.1000.v20190125-2016/eclipse_1801.so -startup /home/alexguo/.eclipse_ide/advantest_ide_RH7-412/eclipse//plugins/org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar -protect root --launcher.appendVmargs -exitdata 5560096 -vm /usr/lib/jvm/java-1.8.0-openjdk/jre/bin/java -vmargs -Xms256m -Xmx8G -Declipse.p2.max.threads=10 -Doomph.redirection.index.redirection=index:/->http://socadmin.verigy.net/nexus/content/repositories/oomph-catalogue/412/ -XX:ReservedCodeCacheSize=256m -Dosgi.bundlefile.limit=100 -Declipse.log.size.max=10000 -Doomph.update.url=http://socadmin.verigy.net/nexus/content/repositories/eclipse4sdk-update-site/412/composite/ -Declipse.p2.unsignedPolicy=allow -Dds.delayed.keepInstances=true -Dosgi.dataAreaRequiresExplicitInit=true -Dorg.eclipse.swt.internal.gtk.noThemingFixes -Dorg.eclipse.swt.internal.gtk.enableStrictChecks -Dorg.eclipse.wst.validation.ui.disable.validation.context.menu=true -jar /home/alexguo/.eclipse_ide/advantest_ide_RH7-412/eclipse//plugins/org.eclipse.equinox.launcher_1.5.400.v20190515-0925.jar
+jaxwu    186550 148878  0  2019 ?        00:00:00 /usr/libexec/kde4/kscreenlocker_greet
+root     186752      2  0 02:07 ?        00:00:00 [kworker/1:1]
+root     186880      2  0 02:08 ?        00:00:00 [kworker/7:0]
+alexguo  189936  59344  0  2019 pts/5    00:00:00 /bin/bash
+alexguo  192750      1  0  2019 pts/0    00:00:00 dbus-launch --autolaunch=72f87a62159540608e0ec86bbdb45537 --binary-syntax --close-stderr
+alexguo  192751      1  0  2019 ?        00:00:00 /bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+root     192976      1  0  2019 ?        00:01:01 /usr/sbin/httpd -DFOREGROUND
+harvey   changedline
